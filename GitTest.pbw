@@ -1,0 +1,6 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "..\\Powerbuilder\\git.pbt";
+@end;
+DefaultTarget "..\\Powerbuilder\\git.pbt";
+DefaultRemoteTarget "..\\Powerbuilder\\git.pbt";
